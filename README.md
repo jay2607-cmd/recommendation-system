@@ -1,11 +1,4 @@
-# Recommendation-system-using-Machine-Learning
-Sure, I can help with that. I'll review the provided code and description, and then I'll write the experience for you. Let's start with the notebook file.
 
-I'll analyze the content of both files to summarize the project accurately. 
-
-Let's begin with the notebook file.
-
-I'll open and review the content.
 
 ### Project Summary: Movie Recommendation System
 
